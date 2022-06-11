@@ -240,7 +240,7 @@
 		<footer>
 			<?php if( empty( $site['custom_footer']) ){ ?>
 			© 2022 BaiSu,Powered by
-			<a target="_blank" href="https://github.com/free-nav/freenav" title="简约导航/书签管理器" rel="nofollow">OneNav</a>
+			<a target="_blank" href="https://github.com/free-nav/freenav" title="简约导航/书签管理器" rel="nofollow">FreeNav</a>
 			<br> The theme author is
 			<a href="https://github.com/free-nav" target="_blank">BaiSu</a>
 			<?php }else{

@@ -252,7 +252,7 @@
 	<!-- 未经作者授权，请勿去掉版权，否则可能影响作者更新代码的积极性或直接放弃维护此项目。 -->
 	<footer>
 		<?php if(empty( $site['custom_footer']) ){ ?>
-		© 2022 Powered by <a target = "_blank" href="https://github.com/free-nav/freenav" title = "简约导航/书签管理器" rel = "nofollow">OneNav</a>.The author is <a href="https://www.xiaoz.me/" target="_blank" title = "小z博客">xiaoz.me</a>
+		© 2022 Powered by <a target = "_blank" href="https://github.com/free-nav/freenav" title = "简约导航/书签管理器" rel = "nofollow">FreeNav</a>.The author is <a href="https://www.xiaoz.me/" target="_blank" title = "小z博客">xiaoz.me</a>
 		<?php }else{
 			echo $site['custom_footer'];
 		} ?>
