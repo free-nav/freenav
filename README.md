@@ -1,3 +1,5 @@
+## an open free fork of onenav
+
 # OneNav
 
 OneNav是一款开源免费的书签（导航）管理程序，使用使用PHP + SQLite 3开发，界面简洁，安装简单，使用方便。OneNav可帮助你你将浏览器书签集中式管理，解决跨设备、跨平台、跨浏览器之间同步和访问困难问题，做到一处部署，随处访问。
@@ -62,6 +64,7 @@ ___
 
 以下是OneNav部分用户演示站，排名不分先后。
 
+* freeNav：[https://nav.17lai.site/](https://nav.17lai.site/)
 * OneNav：[https://nav.rss.ink/](https://nav.rss.ink/)
 * 千行书签：[http://www.52qx.club/](http://www.52qx.club/)
 * 纽及书签：[http://www.1006788.com/](http://www.1006788.com/)
